@@ -65,6 +65,12 @@ Pretrain models that predict future visual states (video diffusion / autoregress
 - **MotionTrans: Human VR Data Enable Motion-Level Learning for Robotic Manipulation Policies** (2025).  
   [[arXiv]](https://arxiv.org/abs/2509.17759) [[Project]](https://motiontrans.github.io/) [[Code]](https://github.com/michaelyuancb/motiontrans) [[Dataset]](https://huggingface.co/datasets/michaelyuanqwq/motiontrans)
 
+- **Humanoid Policy ~ Human Policy** (2025).  
+  [[arXiv]](https://arxiv.org/abs/2503.13441) [[Project]](https://human-as-robot.github.io/) [[Code]](https://github.com/RogerQi/human-policy) [[Data]](https://huggingface.co/datasets/RogerQi/PH2D) [[Hardware]](https://github.com/RogerQi/human-policy?tab=readme-ov-file#human-data-collection-guide)
+
+- **In-N-On: Scaling Egocentric manipulation with in-the-wild and on-task data** (2025).  
+  [[arXiv]](https://arxiv.org/abs/2511.15704) [[Project]](https://xiongyicai.github.io/In-N-On/)
+
 ---
 
 ### Human Embodiment (Train w/o Retargeting)
