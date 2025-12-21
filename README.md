@@ -99,6 +99,9 @@ Pretrain models that predict future visual states (video diffusion / autoregress
 
 ### World Models / Predictive Representations
 
+- **Motus: A Unified Latent Action World Model** (2025).    
+  [[arXiv]](https://arxiv.org/pdf/2512.13030) [[Project]](https://motus-robotics.github.io/motus)[[Code]](https://github.com/thu-ml/Motus)
+  
 - **World Models Can Leverage Human Videos for Dexterous Manipulation** (2025).  
   [[arXiv]](https://arxiv.org/pdf/2512.13644) [[Project]](https://raktimgg.github.io/dexwm/) 
 
