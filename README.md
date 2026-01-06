@@ -105,6 +105,9 @@ Pretrain models that predict future visual states (video diffusion / autoregress
 
 ### World Models / Predictive Representations
 
+- **Large Video Planner Enables Generalizable Robot Control** (2025).  
+  [[arXiv]](https://arxiv.org/abs/2512.15840) [[Project]](https://www.boyuan.space/large-video-planner/) [[Code]](https://github.com/buoyancy99/large-video-planner) [[Hugging Face]](https://huggingface.co/KempnerInstituteAI/LVP)
+
 - **Motus: A Unified Latent Action World Model** (2025).    
   [[arXiv]](https://arxiv.org/pdf/2512.13030) [[Project]](https://motus-robotics.github.io/motus)[[Code]](https://github.com/thu-ml/Motus)
   
