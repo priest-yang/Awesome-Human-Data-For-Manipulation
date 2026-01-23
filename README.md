@@ -105,6 +105,9 @@ Pretrain models that predict future visual states (video diffusion / autoregress
 
 ### World Models / Predictive Representations
 
+- **Cosmos Policy: Fine-Tuning Video Models for Visuomotor Control and Planning** (2026).  
+  [[arXiv]](https://arxiv.org/abs/2601.16163) [[Project]](https://research.nvidia.com/labs/dir/cosmos-policy/) [[Code]](https://github.com/NVlabs/cosmos-policy) [[Dataset]](https://huggingface.co/datasets/nvidia/ALOHA-Cosmos-Policy)
+
 - **CLAP: Contrastive Latent Action Pretraining for Learning Vision-Language-Action Models from Human Videos** (2026).  
   [[arXiv]](https://arxiv.org/abs/2601.04061) [[Project]](https://lin-shan.com/CLAP/) *(Code: coming soon)*
 
