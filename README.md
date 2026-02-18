@@ -75,6 +75,9 @@ Pretrain models that predict future visual states (video diffusion / autoregress
 
 ### Human Embodiment (Train w/o Retargeting)
 
+- **Humanoid Manipulation Interface (HuMI): Humanoid Whole-Body Manipulation from Robot-Free Demonstrations** (2026).  
+  [[arXiv]](https://arxiv.org/abs/2602.06643) [[Project]](https://humanoid-manipulation-interface.github.io/) [[PDF]](https://humanoid-manipulation-interface.github.io/humi.pdf)
+
 - **EgoHumanoid: Unlocking In-the-Wild Loco-Manipulation with Robot-Free Egocentric Demonstration** (2026).  
   [[arXiv]](https://arxiv.org/abs/2602.10106) [[Project]](https://opendrivelab.com/EgoHumanoid/) *(Code: coming soon)*
 
