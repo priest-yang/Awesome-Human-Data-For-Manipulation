@@ -110,6 +110,9 @@ Pretrain models that predict future visual states (video diffusion / autoregress
 
 ### World Models / Predictive Representations
 
+- **DreamDojo: A Generalist Robot World Model from Large-Scale Human Videos** (2026).  
+  [[arXiv]](https://arxiv.org/abs/2602.06949) [[Project]](https://dreamdojo-world.github.io/) *(Code: coming soon)*
+
 - **LDA-1B: Scaling Latent Dynamics Action Model via Universal Embodied Data Ingestion** (2026).  
   [[arXiv]](https://arxiv.org/abs/2602.12215) [[Project]](https://pku-epic.github.io/LDA/) [[Code]](https://github.com/jiangranlv/latent-dynamics-action) *(Data/Checkpoints: coming soon)*
 
