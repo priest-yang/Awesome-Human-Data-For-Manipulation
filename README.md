@@ -105,6 +105,9 @@ Pretrain models that predict future visual states (video diffusion / autoregress
 
 ### World Models / Predictive Representations
 
+- **LDA-1B: Scaling Latent Dynamics Action Model via Universal Embodied Data Ingestion** (2026).  
+  [[arXiv]](https://arxiv.org/abs/2602.12215) [[Project]](https://pku-epic.github.io/LDA/) [[Code]](https://github.com/jiangranlv/latent-dynamics-action) *(Data/Checkpoints: coming soon)*
+
 - **Cosmos Policy: Fine-Tuning Video Models for Visuomotor Control and Planning** (2026).  
   [[arXiv]](https://arxiv.org/abs/2601.16163) [[Project]](https://research.nvidia.com/labs/dir/cosmos-policy/) [[Code]](https://github.com/NVlabs/cosmos-policy) [[Dataset]](https://huggingface.co/datasets/nvidia/ALOHA-Cosmos-Policy)
 
