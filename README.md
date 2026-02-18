@@ -75,9 +75,11 @@ Pretrain models that predict future visual states (video diffusion / autoregress
 
 ### Human Embodiment (Train w/o Retargeting)
 
+- **EgoHumanoid: Unlocking In-the-Wild Loco-Manipulation with Robot-Free Egocentric Demonstration** (2026).  
+  [[arXiv]](https://arxiv.org/abs/2602.10106) [[Project]](https://opendrivelab.com/EgoHumanoid/) *(Code: coming soon)*
+
 - **Emergence of Human to Robot Transfer in Vision-Language-Action Models** (2025).  
   [[Paper]](https://www.physicalintelligence.company/download/human_to_robot.pdf) [[Blog]](https://www.physicalintelligence.company/research/human_to_robot)
-
 
 - **EgoMimic: Scaling Imitation Learning via Egocentric Video** (2024).  
   [[arXiv]](https://arxiv.org/abs/2410.24221) [[Project]](https://egomimic.github.io/) [[Code]](https://github.com/SimarKareer/EgoMimic) [[Dataset]](https://huggingface.co/datasets/gatech/EgoMimic)
